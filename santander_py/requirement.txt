@@ -1,0 +1,10 @@
+windows 64 bit system
+minimum 4gb ram
+
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+pandas_profiling
+sklearn

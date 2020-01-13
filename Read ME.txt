@@ -1,0 +1,12 @@
+This folder contain 
+santander_R which contain R file
+santander_py which conatin Py file
+
+to run py file
+1- change the working directory
+2- Add train.csv and test.csv file in the folder
+3 - system reqirement and library you can find in reqiurement.txt in python folder
+
+to run R file
+1- change working directory
+2- Add train.csv and test.csv file in the folder
